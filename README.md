@@ -34,6 +34,9 @@ removes/deletes a file. totally deletes it.
 ### rmdir < dir >
 removes/deletes a dir. totally deletes it.
 
+## cp < targetfile > < destination file >
+copy file and places in the dest loc
+
 ### GIT Commands
 git clone  - copies an entire repo (to begin)
 git add     - adds a file for inclusion in GIT
@@ -51,3 +54,16 @@ git pull    - downloads the freshest version
 1. git add .
 2. git commit -m "message about what committing"
 3. git push
+
+## Cool Terminal Shortcuts:
+
+Up key: goes to the prev command
+Tab key (while typing a file/folder name): fills out the file name if it's there and unique.
+
+
+## Special Directory
+
+~/ - User dir 
+../ - One dir up
+./ - Current dir
+/ - Root dir
